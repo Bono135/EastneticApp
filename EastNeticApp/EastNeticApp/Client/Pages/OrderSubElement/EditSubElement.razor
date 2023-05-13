@@ -1,0 +1,33 @@
+﻿@page "/orderelement/editelement/{orderId:int}/{elementId:int}/{subelementId:int}"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+@inject IJSRuntime js
+
+<h3>Edit</h3>
+
+<Form3 ButtonText="Update" ordse="ordd"
+       OnValidSubmit="@EditOrderSubElement" />
+
+@code {
+    [Parameter] public int orderId { get; set; }
+    [Parameter] public int elementId { get; set; }
+    [Parameter] public int subelementId { get; set; }
+    private OrderSubElementsVM? ordd = new OrderSubElementsVM();
+
+    protected async override Task OnParametersSetAsync()
+    {
+        var x = await http.GetFromJsonAsync<OrderSubElementsVM[]>($"api/OrderElement/{orderId}/{elementId}/{subelementId}");
+        ordd = x?.FirstOrDefault();
+    }
+    async Task EditOrderSubElement()
+    {
+        if (ordd != null)
+        {
+            ordd.Id = subelementId;
+            ordd.OrderElementId = elementId;
+        }
+        await http.PutAsJsonAsync("api/OrderElement/PutSubElement", ordd);
+        await js.InvokeVoidAsync("alert", $"Update Successfully!");
+        uriHelper.NavigateTo($"orderelement/createelement/subelement/{orderId}/{elementId}");
+    }
+}

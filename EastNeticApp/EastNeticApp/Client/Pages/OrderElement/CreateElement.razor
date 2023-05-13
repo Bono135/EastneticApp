@@ -1,0 +1,76 @@
+﻿
+@page "/orderelement/createelement/{orderId:int}"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+@inject IJSRuntime js
+<h3>Create</h3>
+<Form2 ButtonText="Create Element" ordd="@ord"
+       OnValidSubmit="@CreateOrderElement" />
+
+
+@if (ordvm == null)
+{
+    <text>Loading...</text>
+}
+else if (ordvm.Length == 0)
+{
+    <text>No Records Found.</text>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Order Name</th>
+                <th>Element Name</th>
+                <th>Quantity</th>
+                <th>Total Sub-Element</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (OrderElementsVM o in ordvm)
+            {
+                <tr>
+                    <td>@o.Id</td>
+                    <td>@o.Name</td>
+                    <td>@o.ElementName</td>
+                    <td>@o.Quantity</td>
+                    <td>@o.TotalSubElement</td>
+                    <td>
+                        <a class="btn btn-success" href="orderelement/editelement/@o.OrderId/@o.Id">Edit</a>
+                        <a class="btn btn-success" href="/orderelement/createelement/subelement/@o.OrderId/@o.Id"><i class="oi oi-plus"></i></a>
+                        <button class="btn btn-danger" @onclick="@(() => Delete(o.Id))">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    [Parameter] public int orderId { get; set; }
+    OrderElementsVM ord = new OrderElementsVM();
+    private OrderElementsVM[]? ordvm { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        ordvm = await http.GetFromJsonAsync<OrderElementsVM[]>($"api/orderelement/{orderId}");
+    }
+
+    async Task CreateOrderElement()
+    {
+        ord.OrderId = orderId;
+        await http.PostAsJsonAsync("api/OrderElement", ord);
+        await OnInitializedAsync();
+    }
+
+    async Task Delete(int orderId)
+    {
+        var ele = ordvm?.First(x => x.Id == orderId);
+        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {ele?.ElementName}'s ({ele?.Id}) Record?"))
+        {
+            await http.DeleteAsync($"api/orderelement/{ele?.Id}");
+            await OnInitializedAsync();
+        }
+    }
+}

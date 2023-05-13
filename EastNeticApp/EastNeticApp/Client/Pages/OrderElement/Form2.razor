@@ -1,0 +1,46 @@
+﻿<EditForm Model="@ordd" OnValidSubmit="@OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group ">
+                <div>
+                    <label class="control-label">Element Name :</label>
+                    <div>
+                        <InputText @bind-Value="@ordd.ElementName" class="form-control" />
+                        <ValidationMessage For="@(() => ordd.ElementName)" />
+                    </div>
+                </div>
+
+            </div>
+            <div class="form-group ">
+                <div>
+                    <label class="control-label">Quantity :</label>
+                    <div>
+                        <InputNumber @bind-Value="@ordd.Quantity" class="form-control" />
+                        <ValidationMessage For="@(() => ordd.Quantity)" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-group ">
+                <div>
+                    <label class="control-label">Total Sub-Element :</label>
+                    <div>
+                        <InputNumber @bind-Value="@ordd.TotalSubElement" class="form-control" />
+                        <ValidationMessage For="@(() => ordd.TotalSubElement)" />
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-success">
+                @ButtonText
+            </button>
+        </div>
+        <div class="col-md-6">
+        </div>
+    </div>
+
+</EditForm>
+@code {
+    [Parameter] public OrderElementsVM ordd { get; set; } = new OrderElementsVM();
+    [Parameter] public string ButtonText { get; set; } = "Save";
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+}

@@ -1,0 +1,82 @@
+﻿@page "/report"
+@inject HttpClient client
+@inject IJSRuntime js
+<h3>Order Report</h3>
+
+@if (oReport == null)
+{
+    <text>Loading...</text>
+}
+else if (oReport.Length == 0)
+{
+    <text>No Records Found.</text>
+}
+else
+{
+    <table class="table table-condensed table-bordered">
+        <thead>
+            <tr>
+                <th>Order Name</th>
+                <th>State</th>
+                <th>Order Details Information</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (OrderReportVM data in oReport)
+            {
+                <tr>
+                    <td>@data?.Name</td>
+                    <td>@data?.State</td>
+                    <td>
+                        @if(data?.ElementList != null)
+                        {
+                            <table class="table  table-condensed table-bordered">
+                                <tr>
+                                    <th>Element Name</th>
+                                    <th>Quantity</th>
+                                    <th>Sub-Element</th>
+                                </tr>
+                                @foreach(OrderElementsVM? ele in data.ElementList)
+                                {
+                                    <tr>
+                                        <td>@ele?.ElementName</td>
+                                        <td>@ele?.Quantity</td>
+                                        <td>@ele?.TotalSubElement</td>
+                                        <td>
+                                            @if(ele?.SubElementsList != null)
+                                            {
+                                                <table class="table  table-condensed table-bordered">
+                                                    <tr>
+                                                        <th>Order Type</th>
+                                                        <th>Width</th>
+                                                        <th>Height</th>
+                                                    </tr>
+                                                    @foreach (OrderSubElementsVM? sub in ele.SubElementsList)
+                                                    {
+                                                        <tr>
+                                                            <td>@sub?.orderType</td>
+                                                            <td>@sub?.Width</td>
+                                                            <td>@sub?.Height</td>
+                                                        </tr>
+                                                    }
+                                                </table>
+                                            }
+                                        </td>
+                                    </tr>
+                                }
+                            </table>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private OrderReportVM[]? oReport { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        oReport = await client.GetFromJsonAsync<OrderReportVM[]>("report");
+    }
+}
+

@@ -1,0 +1,62 @@
+﻿@page "/order"
+@inject HttpClient client
+@inject IJSRuntime js
+<h3>Order</h3>
+<small>Add as many order as you want.</small>
+<div class="form-group">
+    <a class="btn btn-success" href="order/create"><i class="oi oi-plus"></i>Create New</a>
+</div>
+<br />
+
+@if (ord == null)
+{
+    <text>Loading...</text>
+}
+else if (ord.Length == 0)
+{
+    <text>No Records Found.</text>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>State</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Order o in ord)
+            {
+                <tr>
+                    <td>@o.Id</td>
+                    <td>@o.Name</td>
+                    <td>@o.State</td>
+                    <td>
+                        <a class="btn btn-success" href="order/edit/@o.Id">Edit</a>
+                        <a class="btn btn-success" href="/orderelement/createelement/@o.Id"><i class="oi oi-plus"></i></a>
+                        <button class="btn btn-danger" @onclick="@(() => Delete(o.Id))">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    private Order[]? ord { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        ord = await client.GetFromJsonAsync<Order[]>("api/order");
+    }
+    async Task Delete(int orderId)
+    {
+        var order = ord?.First(x => x.Id == orderId);
+        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {order?.Name}'s ({order?.Id}) Record?"))
+        {
+            await client.DeleteAsync($"api/order/{orderId}");
+            await OnInitializedAsync();
+        }
+    }
+}

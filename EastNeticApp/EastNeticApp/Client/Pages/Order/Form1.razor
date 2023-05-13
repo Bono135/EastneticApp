@@ -1,0 +1,38 @@
+﻿<EditForm Model="@ord" OnValidSubmit="@OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group ">
+                <div>
+                    <label class="control-label">Order Name :</label>
+                    <div>
+                        <InputText @bind-Value="@ord.Name" class="form-control" />
+                        <ValidationMessage For="@(() => ord.Name)" />
+                    </div>
+                </div>
+
+            </div>
+            <div class="form-group ">
+                <div>
+                    <label class="control-label">State :</label>
+                    <div>
+                        <InputText @bind-Value="@ord.State" class="form-control" />
+                        <ValidationMessage For="@(() => ord.State)" />
+                    </div>
+                </div>
+
+            </div>
+            <button type="submit" class="btn btn-success">
+                @ButtonText
+            </button>
+        </div>
+        <div class="col-md-6">
+
+        </div>
+    </div>
+</EditForm>
+@code {
+    [Parameter] public Order ord { get; set; } = new Order();
+    [Parameter] public string ButtonText { get; set; } = "Save";
+    [Parameter] public EventCallback OnValidSubmit { get; set; }
+}

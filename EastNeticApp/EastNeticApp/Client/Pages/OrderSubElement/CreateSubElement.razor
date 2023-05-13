@@ -1,0 +1,81 @@
+﻿@page "/orderelement/createelement/subelement/{orderId:int}/{orderElementId:int}"
+@inject HttpClient http
+@inject NavigationManager uriHelper
+@inject IJSRuntime js
+<h3>Create</h3>
+<Form3 ButtonText="Create Sub Element" ordse="@ord"
+       OnValidSubmit="@CreateOrderSubElement" />
+
+
+@if (ordsvm == null)
+{
+    <text>Loading...</text>
+}
+else if (ordsvm.Length == 0)
+{
+    <text>No Records Found.</text>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Order Name</th>
+                <th>Element Name</th>
+                <th>Order Type</th>
+                <th>Width</th>
+                <th>Height</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (OrderSubElementsVM o in ordsvm)
+            {
+                <tr>
+                    <td>@o.Id</td>
+                    <td>@o.Name</td>
+                    <td>@o.ElementName</td>
+                    <td>@o.orderType</td>
+                    <td>@o.Width</td>
+                    <td>@o.Height</td>
+                    <td>
+                        <a class="btn btn-success" href="orderelement/editelement/@o.OrderId/@o.OrderElementId/@o.Id">Edit</a>
+                        <button class="btn btn-danger" @onclick="@(() => Delete(o.Id))">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    [Parameter] public int orderId { get; set; }
+    [Parameter] public int orderElementId { get; set; }
+    OrderSubElementsVM ord = new OrderSubElementsVM();
+    private OrderSubElementsVM[]? ordsvm { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        ordsvm = await http.GetFromJsonAsync<OrderSubElementsVM[]>($"api/orderelement/{orderId}/{orderElementId}");
+    }
+
+    async Task CreateOrderSubElement()
+    {
+        ord.OrderId = orderId;
+        ord.OrderElementId = orderElementId;
+        await http.PostAsJsonAsync("api/OrderElement/PostCreateSubElement/", ord);
+        await OnInitializedAsync();
+        //uriHelper.NavigateTo($"orderelement/createelement/{orderId}");
+    }
+
+    async Task Delete(int orderElementId)
+    {
+        var subele = ordsvm?.First(x => x.Id == orderElementId);
+        if (await js.InvokeAsync<bool>("confirm", $"Do you want to delete {subele?.orderType}'s ({subele?.Id}) Record?"))
+        {
+            //await http.DeleteAsync($"api/orderelement/{subele?.Id}");
+
+            await http.DeleteAsync($"api/orderelement/deletesubelement/{subele?.Id}");
+            await OnInitializedAsync();
+        }
+    }
+}

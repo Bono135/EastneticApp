@@ -1,0 +1,24 @@
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\bin\Debug\net6.0\EastNeticApp.Shared.deps.json
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\bin\Debug\net6.0\EastNeticApp.Shared.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\bin\Debug\net6.0\EastNeticApp.Shared.pdb
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.csproj.AssemblyReference.cache
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.AssemblyInfoInputs.cache
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.AssemblyInfo.cs
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.csproj.CoreCompileInputs.cache
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\refint\EastNeticApp.Shared.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.pdb
+E:\Project\Core6\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\ref\EastNeticApp.Shared.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\bin\Debug\net6.0\EastNeticApp.Shared.deps.json
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\bin\Debug\net6.0\EastNeticApp.Shared.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\bin\Debug\net6.0\EastNeticApp.Shared.pdb
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.csproj.AssemblyReference.cache
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.AssemblyInfoInputs.cache
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.AssemblyInfo.cs
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.csproj.CoreCompileInputs.cache
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\refint\EastNeticApp.Shared.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\EastNeticApp.Shared.pdb
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Shared\obj\Debug\net6.0\ref\EastNeticApp.Shared.dll

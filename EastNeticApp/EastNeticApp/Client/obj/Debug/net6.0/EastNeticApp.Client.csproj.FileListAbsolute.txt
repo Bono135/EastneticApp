@@ -1,0 +1,1656 @@
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.16.rkhv1857pg.js
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.pdb
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.pdb
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.pdb.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.pdb.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.16.rkhv1857pg.js.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Client.staticwebassets.runtime.json
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Client.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Client.pdb
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.CSharp.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.AppContext.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Buffers.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.Concurrent.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.Specialized.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Configuration.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Console.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Core.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Data.Common.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Data.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Process.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Drawing.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Drawing.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Globalization.Calendars.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Globalization.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Globalization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Pipes.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.Expressions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.Parallel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.Queryable.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Memory.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Http.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Http.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.HttpListener.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Mail.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.NameResolution.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Ping.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Quic.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Requests.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Security.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.ServicePoint.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Sockets.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebClient.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebProxy.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebSockets.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Numerics.Vectors.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Numerics.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ObjectModel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Uri.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Xml.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Emit.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Metadata.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Resources.Reader.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Resources.Writer.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Handles.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Loader.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Numerics.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.AccessControl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Claims.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Principal.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.SecureString.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ServiceModel.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ServiceProcess.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encoding.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Json.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Channels.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Overlapped.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Thread.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Timer.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Transactions.Local.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Transactions.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ValueTuple.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Web.HttpUtility.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Web.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Windows.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.Linq.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.Serialization.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XDocument.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XPath.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\WindowsBase.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\mscorlib.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\netstandard.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.CoreLib.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\dotnet.js
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\dotnet.timezones.blat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\dotnet.wasm
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt_CJK.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt_EFIGS.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt_no_CJK.dat
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Shared.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Shared.pdb
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.csproj.AssemblyReference.cache
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.AssemblyInfoInputs.cache
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.AssemblyInfo.cs
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.csproj.CoreCompileInputs.cache
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+Le1wv9s.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fGdB4v2y.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\xPvzw99M.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\df81Kxlx.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hBnIscj5.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BOY+wwb7.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\oeG1wyn2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Roe9Enhp.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\xEIVsDbq.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\HsdupY8C.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KBUvNO6x.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zSx9CgmJ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\1nnGah+X.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\NK4FYNmH.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\a6dm4veG.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fipfheZQ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\9sFgz2gH.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\eTDgCY+g.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\7pMOyAU5.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\DivlC7sf.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\joxQTWIQ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\TmpEiCpg.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\di8uOxeS.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\OoS834Yb.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zmGENVvn.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\TqCF6sCV.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\FqIMSd5X.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\PBKbpSrf.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\QMc9gEcY.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\j5i0mTg2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X91Br5pp.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8PqF0cWM.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ifAUgatC.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\oowl+Bdz.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\GJCW7aWn.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\iFJIvIP+.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\uSF0v8Rt.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\O8jDgndl.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5ocsQsJ1.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\pzE2G4Hr.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\2gIfI+Uh.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\LKqgfQzc.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X6Uo+fPJ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\m2UwazWS.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\JC7OQjKq.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\uYHfaUy2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\SxbuKGLD.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\axwJ4lH+.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\U4hZY7mf.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8mEvepx6.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Wi0L9SLD.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\PMfpfz44.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\FnAWNvx6.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\et17id8i.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\kdQRdpjW.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\o+VsLAjg.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\rRjxbMFf.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3WZfRON3.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\FwCS87XK.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\mTnXOspp.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\HKEzmxSJ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5GdEgEf+.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BKe0FspK.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ONzu+kKO.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\duj3fTeM.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ABGOmZh3.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Gwwhy7CC.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\W2E0noFn.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\6AJYVIkZ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\2KjlqU3L.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3YZH3qB3.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8loLv+AK.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\F+F12NbE.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\E+Zn3qig.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\mXYG1w32.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Q6Wrd3Z2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\VJmnOjEj.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\G3LIEiOm.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fPhzFs59.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\A+S+UQCJ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\N7ZbZs0H.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hjdveRrg.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\wpHAZ6r6.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\0jVgOp8H.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\jewh9bB2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\g1wHEl7x.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hvQMiMdS.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Q4zeiBoQ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XRiIIWjx.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\OcsQEav+.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Gwzcp3Vt.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\pEUR+CVg.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\gilC8RpH.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\qWUP6d8B.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\LnrZAefj.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\wP84s8Cb.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X4S0ehCF.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+4G34O95.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\bO8BacRF.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hB36KtBY.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5Ep7xbcT.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\EADbTgia.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ORE+BRWU.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\lOCQ6l1+.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\N9RCibjs.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\RA7qkhhB.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fa5VJEhH.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\EGa8oa4l.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\vofM2G0t.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\JNz+ZVq0.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ucWranQH.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\4pkJVFkl.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\eX28ozyi.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Mf3DfDLD.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\i+qKIRCL.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MXCe813k.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\4r8+w2uE.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\RQgFRbte.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\SFYs5AK2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\afqdy4Gl.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XFH5lGCy.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ylrzELsz.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\OyZNZDf2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\r+IsocY2.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XuHKom8x.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\aSHc5uAs.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\lcjUt1Yp.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BXntDGkr.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\UQ0rr6jG.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\r03TBUOA.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KSsejL5J.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\IuqkvqYn.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3Jxhs88T.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\2zpBDw+C.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Y8dE7RtB.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\vuD+6cgZ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\efZf5M9Q.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Ly028AWb.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\7iFXX2Jm.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\gcumtBvQ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\l+VQbbaV.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8vRojeyA.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\DwqMOhGc.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\yx6CqDqc.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\1RpDS7WW.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\xUOw9+eR.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\LvLZFl+R.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fuXqsCdF.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ff8gzVsL.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zxkgb1Q3.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hCC+1nxB.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MVbGyBs+.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\m0wgOuhO.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Q0r2Vla0.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+DpXQkda.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\w1bulcHZ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\isU48aJf.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\USOlBBi7.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\83Dxfqly.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\h0ZJienQ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\4rvZUWIy.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\nqZGjv38.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\gDMUOvPs.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+tVxBymE.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5TgZREKx.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\1oCnfTfO.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BQsXSB3y.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\oCefPwkV.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\eW909Pf1.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\HCkWqc+q.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\WcRVujh4.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KHj0cT3f.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MIog6DRS.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\j4ujWplM.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\enkfRASl.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\IziUy9Y+.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\wIorxpKi.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MYmIITig.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X0kZLBhy.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\G8M+ESee.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zHCt3iX4.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5J1FTAXi.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3zrz9OQd.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XMnJLy+H.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\nUur9Kur.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\kREVivSI.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\okdgvE60.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\kMh3DwxL.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\G+2cgFtI.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KXS8n3Oe.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\TT3CSZVH.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Y0QOrsjU.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\T9gnitEn.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\c8Fp33BI.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\rjMTiAQn.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8xlvs2jV.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\so0jmvlu.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\F4IUPnUS.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\t+ZgEc3M.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\9LKVQO41.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\qhybCPKQ.gz
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\blazor.boot.json
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.EastNeticApp.Client.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.build.EastNeticApp.Client.props
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EastNeticApp.Client.props
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EastNeticApp.Client.props
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets.build.json
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets.development.json
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\bundle\EastNeticApp.Client.styles.css
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\projectbundle\EastNeticApp.Client.bundle.scp.css
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.csproj.CopyComplete
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\refint\EastNeticApp.Client.dll
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.pdb
+E:\Project\Core6\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\ref\EastNeticApp.Client.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.16.rkhv1857pg.js
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.16.rkhv1857pg.js.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.pdb
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.pdb
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.pdb.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Client.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.pdb.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\wwwroot\_framework\EastNeticApp.Shared.dll.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Client.staticwebassets.runtime.json
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Client.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Client.pdb
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.CSharp.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.AppContext.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Buffers.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.Concurrent.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.Specialized.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Collections.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ComponentModel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Configuration.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Console.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Core.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Data.Common.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Data.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Process.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Drawing.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Drawing.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Globalization.Calendars.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Globalization.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Globalization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Compression.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.FileSystem.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.Pipes.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.IO.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.Expressions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.Parallel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.Queryable.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Linq.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Memory.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Http.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Http.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.HttpListener.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Mail.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.NameResolution.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Ping.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Quic.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Requests.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Security.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.ServicePoint.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.Sockets.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebClient.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebProxy.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.WebSockets.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Net.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Numerics.Vectors.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Numerics.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ObjectModel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Uri.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.Xml.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Emit.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Metadata.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Reflection.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Resources.Reader.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Resources.Writer.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Handles.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Loader.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Numerics.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.Serialization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Runtime.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.AccessControl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Claims.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.Principal.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.SecureString.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Security.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ServiceModel.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ServiceProcess.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encoding.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.Json.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Channels.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Overlapped.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Tasks.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Thread.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.Timer.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Threading.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Transactions.Local.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Transactions.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.ValueTuple.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Web.HttpUtility.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Web.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Windows.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.Linq.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.Serialization.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XDocument.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XPath.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Xml.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\WindowsBase.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\mscorlib.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\netstandard.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\System.Private.CoreLib.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\dotnet.js
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\dotnet.timezones.blat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\dotnet.wasm
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt_CJK.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt_EFIGS.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\icudt_no_CJK.dat
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Shared.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\bin\Debug\net6.0\EastNeticApp.Shared.pdb
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.csproj.AssemblyReference.cache
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.AssemblyInfoInputs.cache
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.AssemblyInfo.cs
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.csproj.CoreCompileInputs.cache
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.MvcApplicationPartsAssemblyInfo.cache
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+Le1wv9s.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fGdB4v2y.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\xPvzw99M.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\df81Kxlx.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hBnIscj5.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BOY+wwb7.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\oeG1wyn2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Roe9Enhp.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\xEIVsDbq.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\HsdupY8C.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KBUvNO6x.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zSx9CgmJ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\1nnGah+X.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\NK4FYNmH.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\a6dm4veG.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fipfheZQ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\9sFgz2gH.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\eTDgCY+g.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\7pMOyAU5.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\DivlC7sf.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\joxQTWIQ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\TmpEiCpg.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\di8uOxeS.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\OoS834Yb.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zmGENVvn.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\TqCF6sCV.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\FqIMSd5X.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\PBKbpSrf.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\QMc9gEcY.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\j5i0mTg2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X91Br5pp.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8PqF0cWM.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ifAUgatC.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\oowl+Bdz.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\GJCW7aWn.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\iFJIvIP+.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\uSF0v8Rt.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\O8jDgndl.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5ocsQsJ1.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\pzE2G4Hr.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\2gIfI+Uh.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\LKqgfQzc.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X6Uo+fPJ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\m2UwazWS.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\JC7OQjKq.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\uYHfaUy2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\SxbuKGLD.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\axwJ4lH+.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\U4hZY7mf.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8mEvepx6.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Wi0L9SLD.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\PMfpfz44.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\FnAWNvx6.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\et17id8i.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\kdQRdpjW.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\o+VsLAjg.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\rRjxbMFf.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3WZfRON3.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\FwCS87XK.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\mTnXOspp.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\HKEzmxSJ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5GdEgEf+.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BKe0FspK.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ONzu+kKO.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\duj3fTeM.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ABGOmZh3.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Gwwhy7CC.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\W2E0noFn.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\6AJYVIkZ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\2KjlqU3L.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3YZH3qB3.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8loLv+AK.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\F+F12NbE.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\E+Zn3qig.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\mXYG1w32.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Q6Wrd3Z2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\VJmnOjEj.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\G3LIEiOm.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fPhzFs59.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\A+S+UQCJ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\N7ZbZs0H.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hjdveRrg.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\wpHAZ6r6.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\0jVgOp8H.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\jewh9bB2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\g1wHEl7x.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hvQMiMdS.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Q4zeiBoQ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XRiIIWjx.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\OcsQEav+.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Gwzcp3Vt.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\pEUR+CVg.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\gilC8RpH.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\qWUP6d8B.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\LnrZAefj.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\wP84s8Cb.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X4S0ehCF.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+4G34O95.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\bO8BacRF.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hB36KtBY.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5Ep7xbcT.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\EADbTgia.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ORE+BRWU.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\lOCQ6l1+.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\N9RCibjs.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\RA7qkhhB.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fa5VJEhH.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\EGa8oa4l.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\vofM2G0t.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\JNz+ZVq0.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ucWranQH.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\4pkJVFkl.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\eX28ozyi.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Mf3DfDLD.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\i+qKIRCL.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MXCe813k.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\4r8+w2uE.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\RQgFRbte.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\SFYs5AK2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\afqdy4Gl.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XFH5lGCy.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ylrzELsz.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\OyZNZDf2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\r+IsocY2.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XuHKom8x.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\aSHc5uAs.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\lcjUt1Yp.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BXntDGkr.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\UQ0rr6jG.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\r03TBUOA.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KSsejL5J.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\IuqkvqYn.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3Jxhs88T.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\2zpBDw+C.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Y8dE7RtB.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\vuD+6cgZ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\efZf5M9Q.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Ly028AWb.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\7iFXX2Jm.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\gcumtBvQ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\l+VQbbaV.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8vRojeyA.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\DwqMOhGc.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\yx6CqDqc.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\1RpDS7WW.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\xUOw9+eR.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\LvLZFl+R.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fuXqsCdF.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\ff8gzVsL.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zxkgb1Q3.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\hCC+1nxB.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MVbGyBs+.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\m0wgOuhO.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Q0r2Vla0.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+DpXQkda.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\w1bulcHZ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\isU48aJf.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\USOlBBi7.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\83Dxfqly.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\h0ZJienQ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\4rvZUWIy.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\nqZGjv38.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\gDMUOvPs.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\+tVxBymE.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5TgZREKx.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\1oCnfTfO.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\BQsXSB3y.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\oCefPwkV.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\eW909Pf1.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\HCkWqc+q.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\WcRVujh4.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KHj0cT3f.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MIog6DRS.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\j4ujWplM.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\enkfRASl.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\IziUy9Y+.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\wIorxpKi.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\MYmIITig.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\X0kZLBhy.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\G8M+ESee.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\zHCt3iX4.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\5J1FTAXi.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\3zrz9OQd.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\XMnJLy+H.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\nUur9Kur.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\kREVivSI.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\okdgvE60.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\kMh3DwxL.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\G+2cgFtI.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\KXS8n3Oe.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\TT3CSZVH.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\Y0QOrsjU.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\T9gnitEn.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\c8Fp33BI.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\rjMTiAQn.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\8xlvs2jV.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\SzKfv024.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\mMBgbO16.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\GH6eIxJa.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\fh9HkSlB.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\build-gz\qhybCPKQ.gz
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\blazor.boot.json
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.EastNeticApp.Client.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.build.EastNeticApp.Client.props
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EastNeticApp.Client.props
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EastNeticApp.Client.props
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets.build.json
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\staticwebassets.development.json
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\bundle\EastNeticApp.Client.styles.css
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\scopedcss\projectbundle\EastNeticApp.Client.bundle.scp.css
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.csproj.CopyComplete
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\refint\EastNeticApp.Client.dll
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\EastNeticApp.Client.pdb
+E:\Eastnetic Project\EastneticApp\EastNeticApp\EastNeticApp\Client\obj\Debug\net6.0\ref\EastNeticApp.Client.dll
